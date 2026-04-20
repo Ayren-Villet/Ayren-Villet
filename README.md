@@ -34,8 +34,8 @@ https://github.com/Ayren-Villet/Ayren-Villet.github.io/blob/main/CV/CV%20Ayren%2
 
 ---
 
-## REFLECTION
-### Reflection on Coding in Markdown (STAR Method)
+## REFLECTION (STAR metthod)
+### Reflection on Coding in Markdown
 
 **Situation:**  
 As part of creating my digital portfolio, I had to learn how to use Markdown to structure and present my CV on GitHub.
@@ -44,12 +44,12 @@ As part of creating my digital portfolio, I had to learn how to use Markdown to 
 My task was to convert my CV into Markdown format while making sure it remained professional, readable, and well-organised.
 
 **Action:**  
-At first, I found Markdown confusing because I was not used to writing code for formatting. I struggled with things like headings, spacing, and aligning content properly. Instead of giving up, I practiced using different Markdown features such as headings, bullet points, and bold text. I kept testing my work on GitHub to see how it displayed and fixed mistakes until it looked correct.
+First, I found Markdown confusing because it was unknown to me and I was not used to writing code for formatting. I struggled with things like headings, spacing, and aligning content properly. Instead of giving up, I practiced using different Markdown features such as headings, bullet points, and bold text. I kept testing my work on GitHub to see how it displayed and fixed mistakes until it looked correct.
 
 **Result:**  
-Through this process, I improved my attention to detail and problem-solving skills. I became more comfortable using Markdown and now understand how developers structure content clearly. This experience showed me that even if I struggle at first, practicing consistently helps me improve and achieve a professional result.
+Through this process, I improved my attention to detail and problem-solving skills. I became more comfortable using Markdown. This experience showed me that even if I struggle at first, practicing consistently helps me improve and achieve a professional result.
 
-### Reflection on Mock Interview Experience (STAR Method)
+### Reflection on Mock Interview Experience 
 
 **Situation:**  
 I participated in a mock interview as part of my work readiness training to prepare for real-world job interviews.
@@ -58,15 +58,15 @@ I participated in a mock interview as part of my work readiness training to prep
 I needed to present myself professionally, answer questions confidently, and demonstrate my skills and personality effectively.
 
 **Action:**  
-Initially, I felt nervous and unsure about how to answer certain questions, especially when I had to think on the spot. Some of my answers were not well-structured at first. However, I did not give up. I practiced answering common interview questions and focused on improving how I spoke, including my tone, confidence, and clarity. I also worked on staying calm and thinking before responding.
+ I felt nervous and unsure about how to answer certain questions, especially when I had to think on the spot. Some of my answers were not well-structured at first. However, I did not give up. I practiced answering common interview questions and focused on improving how I spoke, including my tone, confidence, and clarity. I also worked on staying calm and thinking before responding.
 
 **Result:**  
 By the end of the process, I became more confident in expressing myself and answering questions clearly. I learned the importance of preparation and communication during interviews. This experience helped me develop confidence, adaptability, and better problem-solving skills, which will be valuable in real interview situations.
 
-### Reflection on Using GitHub Pages (STAR Method)
+### Reflection on Using GitHub Pages
 
 **Situation:**  
-As part of the portfolio project, I was required to publish my work using GitHub Pages to create an online digital portfolio.
+For the portfolio project, I was required to publish my work using GitHub Pages to create an online digital portfolio.
 
 **Task:**  
 My task was to take my GitHub repository and successfully deploy it as a live website that showcases my CV, mock interview, and reflections.
